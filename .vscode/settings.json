@@ -1,0 +1,13 @@
+{
+    "prettier.printWidth": 160,
+    "prettier.tabWidth": 4,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.disableLanguages": [],
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "stylusSupremacy.insertColons": false,
+    "stylusSupremacy.insertSemicolons": false,
+    "stylusSupremacy.insertBraces": false,
+    "languageStylus.useSeparator": false
+}
