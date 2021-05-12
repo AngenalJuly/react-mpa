@@ -29,7 +29,7 @@
         "mini-css-extract-plugin": "^0.8.0",
         "optimize-css-assets-webpack-plugin": "^5.0.3",
         "path": "^0.12.7",
-        "postcss": "^7.0.17",
+        "postcss": "^8.2.10",
         "postcss-loader": "^3.0.0",
         "style-loader": "^1.0.0",
         "stylus": "^0.54.5",
